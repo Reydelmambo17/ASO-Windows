@@ -1,0 +1,1 @@
+Add-WindowsCapability -Online -Name ServerCore.AppCompatibility~~~~0.0.1.0
